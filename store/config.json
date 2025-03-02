@@ -1,0 +1,12 @@
+{
+  "autoRead": false,
+  "autoStatusRead": false,
+  "cmdReact": true,
+  "cmdRead": false,
+  "mode": true,
+  "PREFIX": ".",
+  "disabledCmds": [],
+  "autolikestatus": false,
+  "disablegc": false,
+  "disabledm": false
+}
